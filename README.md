@@ -19,7 +19,7 @@ I am a self-taught JavaScript student who was lucky enough to be accepted into 4
 
 </div>
 
-#### <div id="socials-container" style="flex: 1;">
+#### <div id="socials-container" style="flex: 2;">
 
 ##### Socials
 
