@@ -1,6 +1,10 @@
 I am a self-taught JavaScript student who was lucky enough to be accepted into 42 Berlin. I am currently learning C, C++, and a lot of complex and fun stuff.* 🌍  I'm based in Berlin* ✉️  You can contact me at [migoyamanuel@gmail.com](mailto:migoyamanuel@gmail.com)* 🧠  I'm learning C, C++, Data Structures and Algorithms and React.js*.
 
-### Skills
+### <div id="skills-socials-container" style="display: flex;">
+
+#### <div id="skills-container" style="flex: 1;">
+
+##### Skills
 
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -13,7 +17,11 @@ I am a self-taught JavaScript student who was lucky enough to be accepted into 4
   <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 </p>
 
-### Socials
+</div>
+
+#### <div id="socials-container" style="flex: 1;">
+
+##### Socials
 
 <p align="left">
   <a href="https://www.linkedin.com/in/manuel-migoya-bussolotti-a1b5a9bb" target="_blank" rel="noreferrer">
@@ -24,6 +32,10 @@ I am a self-taught JavaScript student who was lucky enough to be accepted into 4
     </picture>
   </a>
 </p>
+
+</div>
+
+</div>
 
 ### GitHub Stats
 
