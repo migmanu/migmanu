@@ -1,4 +1,4 @@
-I am a self-taught JavaScript student who was lucky enough to be accepted into 42 Berlin. I am currently learning C, C++, and a lot of complex and fun stuff.* 🌍  I'm based in Berlin* ✉️  You can contact me at [migoyamanuel@gmail.com](mailto:migoyamanuel@gmail.com)* 🧠  I'm learning C, C++, Data Structures and Algorithms and React.js*.
+I am a self-taught JavaScript student who was lucky enough to be accepted into 42 Berlin. I am currently learning C, C++, Data Structures and Algorithms.* 🌍  I'm based in Berlin* ✉️  You can contact me at [migoyamanuel@gmail.com](mailto:migoyamanuel@gmail.com)*
 
 ### <div id="skills-socials-container" style="display: flex;">
 
